@@ -11,4 +11,5 @@
 {
   "mongoURI": "mongodb+srv:/",
   "jwtSecret": ""
+}
 ``` 
