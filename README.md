@@ -1,4 +1,14 @@
+# Password Save - Mern stack app
+
+### you can save your all website -- email & password
+
+----
+
+## Use this app to developemt
+
+> config default.json production.josn set it
 ```
-Creating app... done, ⬢ young-sea-92234
-https://young-sea-92234.herokuapp.com/ | https://git.heroku.com/young-sea-92234.git
-```
+{
+  "mongoURI": "mongodb+srv:/",
+  "jwtSecret": ""
+``` 
