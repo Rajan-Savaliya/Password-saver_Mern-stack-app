@@ -1,6 +1,6 @@
 # Password Save - Mern stack app
 
-### you can save your all website -- email & password
+### you can save your all website - email & password
 
 ----
 
